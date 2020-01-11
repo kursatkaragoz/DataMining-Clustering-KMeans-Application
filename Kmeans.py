@@ -6,7 +6,7 @@
 #
 # Created:     26.10.2019
 # Copyright:   (c) Kursat 2019
-# Licence:     <10400336210>
+# Licence:     <----------->
 #-------------------------------------------------------------------------------
 from tkinter import *
 from tkinter import Tk, Label, Button
